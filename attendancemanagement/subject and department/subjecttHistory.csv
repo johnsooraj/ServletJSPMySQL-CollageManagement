@@ -1,0 +1,665 @@
+id,depart_id,subject_name,semester
+1,4,"EN010 101 Engineering Mathematics ",1
+2,4,"EN010 102 Engineering Physics ",1
+3,4,"EN010 103 Engineering. Chemistry & Environmental Studies",1
+4,4,"EN010 104 Engineering Mechanics ",1
+5,4,"EN010 105 Engineering Graphics ",1
+6,4,"EN010 106 Basic Civil Engineering ",1
+7,4,"EN010 107 Basic Mechanical Engineering ",1
+8,4,"EN010 108 Basic Electrical Engineering",1
+9,4,"EN010 109 Basic Electronics Engineering. & Information Technology",1
+10,4,"EN010 110 Mechanical Workshop",1
+11,4,"EN110 111 Electrical and Civil Workshops",1
+12,4,"EN010 301 Engineering Mathematics ",3
+13,4,"EN010 302 Economics and Communication ",3
+14,4,"AN010 303 Fluid Mechanics",3
+15,4,"AN 010 304 Basic Thermodynamics ",3
+16,4,"AN 010 305 Elements of Aeronautics",3
+17,4,"AN010 306 Basic Strength of Materials",3
+18,4,"AN 010 307(CE) Basic Strength of materials Lab ",3
+19,4,"AN 010 308(ME) Fluid Mechanics Lab",3
+20,4,"EN010 401 Engineering Mathematics III ",4
+21,4,"AN010 402 Gas Dynamics ",4
+22,4,"AN 010 403 Propulsion ",4
+23,4,"AN 010 404 Aerodynamics ",4
+24,4,"AN 010 405 Aircraft Structures ",4
+25,4,"AN 010 406 Electrical technology & Machines ",4
+26,4,"AN 010 407 Structures Lab ",4
+27,4,"AN 010 408 Propulsion Lab ",4
+28,4,"EN010 501A Engineering Mathematics IV",5
+29,4,"EN 010 502(ME) Principles of Management ",5
+30,4,"AN 010 503 Computer Programming ",5
+31,4,"AN 010 504 Flight Dynamics ",5
+32,4,"AN 010 505 Aerodynamics ",5
+33,4,"AN 010 506 Propulsion ",5
+34,4,"AN 010 507 Wind tunnel Lab",5
+35,4,"AN 010 508 Propulsion LabII ",5
+36,4,"AN 010 601 Avionics ",6
+37,4,"AN 010 602 Experimental Aerodynamics ",6
+38,4,"AN 010 603 Aircraft Structures ",6
+39,4,"AN 010 604 Heat Transfer ",6
+40,4,"AN 010 605 Theory of Vibration ",6
+41,4,"AN 010 606Lxx Elective ",6
+42,4,"AN 010 607 Heat Engines Lab",6
+43,4,"AN 010 608 Aero EnginesLab ",6
+44,4,"AN 010 606L01 Composite structures",6
+45,4,"AN 010 606L02 Fatigue and fracture",6
+46,4,"AN 010 606L03 Finite Element Analysis",6
+47,4,"AN 010 606L04 Operation Research",6
+48,4,"AN 010 606L05 Ecology & Environment",6
+49,4,"AN 010 606L06 Non Destructive Testing",6
+50,4,"AN 010 701 Computational Fluid Dynamics ",7
+51,4,"AN 010 702 Experimental stress analysis ",7
+52,4,"AN 010 703 Aircraft design ",7
+53,4,"AN 010 704 Flight dynamics II ",7
+54,4,"AN 010 705 Aircraft systems and instrumentation",7
+55,4,"AN 010 706Lxx Elective II",7
+56,4,"AN 010 707 Experimental stress analysis lab",7
+57,4,"AN 010 708 Vibration Lab ",7
+58,4,"AN 010 709 Seminar ",7
+59,4,"AN 010 710 Project ",7
+60,4,"AN 010 706L01Theory of plates and shells",7
+61,4,"AN 010 706L02 Advanced Materials in aircraft manufacturing",7
+62,4,"AN 010 706L03 Failure analysis",7
+63,4,"AN 010 706L04 Helicopter Aerodynamics",7
+64,4,"AN 010 706L05 Optimization methods in Design",7
+65,4,"AN 010 706L06 Rotor Dynamics",7
+66,4,"AN 010 801 Rockets & Missiles ",8
+67,4,"AN 010 802 Introduction to space technology ",8
+68,4,"AN 010 803 Air transportation & Aircraft maintenance",8
+69,4,"AN 010 804Lxx Elective III ",8
+70,4,"AN 010 805Gxx Elective IV ",8
+71,4,"AN 010 806 Aerodynamics Lab ",8
+72,4,"AN 010 807 Project ",8
+73,4,"AN 010 808 Viva Voce ",8
+74,4,"AN 010 804L01 Project management & TQM",8
+75,4,"AN 010 804L02 Air navigation",8
+76,4,"AN 010 804L03 Aircraft rules & regulations",8
+77,4,"AN 010 804L04 Industrial aerodynamics",8
+78,4,"AN 010 804L05 Acoustics & Noise control",8
+79,4,"AN 010 804L06 Transport process in reacting flows",8
+80,4,"AN 010 805G01 Boundary layer theory",8
+81,4,"AN 010 805G02 Disaster Management",8
+82,4,"AN 010 805G03 Cryogenics",8
+83,4,"AN 010 805G04 Advanced strength of materials",8
+84,4,"AN 010 805G05 High temperature gas dynamics",8
+85,4,"AN 010 805G06 Turbo Machines",8
+86,4,"EN010 101 Engineering Mathematics ",2
+87,4,"EN010 102 Engineering Physics ",2
+88,4,"EN010 103 Engineering. Chemistry & Environmental Studies",2
+89,4,"EN010 104 Engineering Mechanics ",2
+90,4,"EN010 105 Engineering Graphics ",2
+91,4,"EN010 106 Basic Civil Engineering ",2
+92,4,"EN010 107 Basic Mechanical Engineering ",2
+93,4,"EN010 108 Basic Electrical Engineering",2
+94,4,"EN010 109 Basic Electronics Engineering. & Information Technology",2
+95,4,"EN010 110 Mechanical Workshop",2
+96,4,"EN110 111 Electrical and Civil Workshops",2
+97,5,"EN010 101 Engineering Mathematics",1
+98,5,"EN010 102 Engineering Physics ",1
+99,5,"EN010 103 Engineering. Chemistry & Environmental Studies",1
+100,5,"EN010 104 Engineering Mechanics ",1
+101,5,"EN010 105 Engineering Graphics ",1
+102,5,"EN010 106 Basic Civil Engineering ",1
+103,5,"EN010 107 Basic Mechanical Engineering ",1
+104,5,"EN010 108 Basic Electrical Engineering",1
+105,5,"EN010 109 Basic Electronics Engineering. & Information Technology",1
+106,5,"EN010 110 Mechanical Workshop ",1
+107,5,"EN110 111 Electrical and Civil Workshops ",1
+108,5,"EN010 101 Engineering Mathematics",2
+109,5,"EN010 102 Engineering Physics ",2
+110,5,"EN010 103 Engineering. Chemistry & Environmental Studies",2
+111,5,"EN010 104 Engineering Mechanics ",2
+112,5,"EN010 105 Engineering Graphics ",2
+113,5,"EN010 106 Basic Civil Engineering ",2
+114,5,"EN010 107 Basic Mechanical Engineering ",2
+115,5,"EN010 108 Basic Electrical Engineering",2
+116,5,"EN010 109 Basic Electronics Engineering. & Information Technology",2
+117,5,"EN010 110 Mechanical Workshop ",2
+118,5,"EN110 111 Electrical and Civil Workshops ",2
+119,5,"EN010 301 Engineering Mathematics II",3
+120,5,"EN010 302 Economics and Communication Skills",3
+121,5,"AI010 303 Network Theory",3
+122,5,"AI010 304 Solid State devices ",3
+123,5,"AI010 305 Analog Circuits",3
+124,5,"AI010 306 Computer Programming",3
+125,5,"AI010 307 Analog circuits Lab",3
+126,5,"AI010 308 Programming Lab",3
+127,5,"EN010 401 Engineering Mathematics III ",4
+128,5,"EN010 402(ME) Principles of Management",4
+129,5,"AI010 403 Signals and Systems ",4
+130,5,"AI010 404 Digital Electronics ",4
+131,5,"AI010 405 Signal Communication ",4
+132,5,"AI010 406 Analog circuits II",4
+133,5,"AI010 407 Analog circuits II lab ",4
+134,5,"AI010 408 Digital IC lab ",4
+135,5,"EN010 501 Engg Mathematics IV ",5
+136,5,"AI010 502 Industrial Electronics and Applications",5
+137,5,"AI010 503 Basic Instrumentation & recording system",5
+138,5,"AI010 504 Data Acquisition system ",5
+139,5,"AI010 505 Control Engineering ",5
+140,5,"AI010 506 Microprocessors and microcontrollers",5
+141,5,"AI010 507 Industrial Electronics Lab ",5
+142,5,"AI010 508 Measurements lab ",5
+143,5,"AI010 601 Process Control Instrumentation ",6
+144,5,"AI010 602 Digital Signal Processing ",6
+145,5,"AI010 603 Industrial Instrumentation ",6
+146,5,"AI010 604 Microcontroller based system design",6
+147,5,"AI010 605 Control Engineering II ",6
+148,5,"AI010 606Lxx Elective",6
+149,5,"AI010 607 Microprocessors & microcontrollers lab",6
+150,5,"AI010 608 Mini Project ",6
+151,5,"AI 010 606L01 Mechatronics",6
+152,5,"AI 010 606L02 Micro Electronics",6
+153,5,"AI 010 606L03 Digital system design",6
+154,5,"AI 010 606L04 Industrial safety engineering",6
+155,5,"AI 010 606L05 Reliability Engineering",6
+156,5,"AI 010 606L06 Energy management",6
+157,5,"AI010 701 VLSI ",7
+158,5,"AI010 702 Computerised Process control ",7
+159,5,"AI010 703 Biomedical Instrumentation ",7
+160,5,"AI010 704 Analytical instrumentation ",7
+161,5,"AI010 705 Industrial Instrumentation II ",7
+162,5,"AI010 706Lxx Elective II ",7
+163,5,"AI010 707 Industrial Instrumentation Lab ",7
+164,5,"AI010 708 DSP lab ",7
+165,5,"AI010 709 Seminar ",7
+166,5,"AI 010 710 Project ",7
+167,5,"AI010 706L01 Robotics",7
+168,5,"AI010 706L02 Real Time system",7
+169,5,"AI010 706L03 Optimization techniques",7
+170,5,"AI010 706L04 Fuzzy Logic",7
+171,5,"AI010 706L05 Digital Image processing",7
+172,5,"AI010 706L06 Advanced microcontrollers",7
+173,5,"AI010 801 Instrumentation system design ",8
+174,5,"AI010 802 Instrumentation in process industries ",8
+175,5,"AI010 803 Computer Networks ",8
+176,5,"AI010 804 Lxx Elective III ",8
+177,5,"AI010 805 Gxx Elective IV ",8
+178,5,"AI010 806 Process Control Lab ",8
+179,5,"AI010 807 Project ",8
+180,5,"AI010 808 Viva Voce ",8
+181,5,"AI010 804L01 Neural networks",8
+182,5,"AI010 804L02 Advanced DSP",8
+183,5,"AI010 804L03 Embedded systems",8
+184,5,"AI010 804L04 Artificial Intelligence",8
+185,5,"AI010 804L05 VHDL",8
+186,5,"AI010 804L06 BioInformatics",8
+187,5,"AI010 805G01 Total quality management",8
+188,5,"AI010 805G02 Human factors engineering",8
+189,5,"AI010 805G03 System engineering",8
+190,5,"AI010 805G04 Professional Ethics",8
+191,5,"AI010 805G05 Industrial Pollution control",8
+192,5,"AI010 805G06 Simulation and modelling",8
+193,7,"EN010 101 Engineering Mathematics I",1
+194,7,"EN010 102 Engineering Physics ",1
+195,7,"EN010 103 Engineering. Chemistry & Environmental Studies",1
+196,7,"EN010 104 Engineering Mechanics ",1
+197,7,"EN010 105 Engineering Graphics ",1
+198,7,"EN010 106 Basic Civil Engineering ",1
+199,7,"EN010 107 Basic Mechanical Engineering ",1
+200,7,"EN010 108 Basic Electrical Engineering",1
+201,7,"EN010 109 Basic Electronics Engineering. & Information Technology",1
+202,7,"EN010 110 Mechanical Workshop ",1
+203,7,"EN110 111 Electrical and Civil Workshops ",1
+204,7,"EN010 101 Engineering Mathematics I",2
+205,7,"EN010 102 Engineering Physics ",2
+206,7,"EN010 103 Engineering. Chemistry & Environmental Studies",2
+207,7,"EN010 104 Engineering Mechanics ",2
+208,7,"EN010 105 Engineering Graphics ",2
+209,7,"EN010 106 Basic Civil Engineering ",2
+210,7,"EN010 107 Basic Mechanical Engineering ",2
+211,7,"EN010 108 Basic Electrical Engineering",2
+212,7,"EN010 109 Basic Electronics Engineering. & Information Technology",2
+213,7,"EN010 110 Mechanical Workshop ",2
+214,7,"EN110 111 Electrical and Civil Workshops ",2
+215,7,"EN010 301 Engineering Mathematics II ",3
+216,7,"EN010 302 Economics and Communication Skills",3
+217,7,"AU010 303 Fluid Mechanics and Hydraulic Machinery",3
+218,7,"AU010 304(ME) Metallurgy & Material Science ",3
+219,7,"AU010 305(ME) Programming in C ",3
+220,7,"AU010 306(CE) Strength of Materials & Structural Engineering",3
+221,7,"AU010 307 Computer Lab ",3
+222,7,"AU010 308(ME) Fluid Mechanics Lab ",3
+223,7,"EN010 401 Engineering Mathematics III ",4
+224,7,"EN010 402(ME) Principles of Management ",4
+225,7,"AU010 403 Auto Power Plant ",4
+226,7,"AU010 404(ME) Manufacturing Process ",4
+227,7,"AU010 405 Machine Drawing ",4
+228,7,"AU010 406(EE) Electrical Technology ",4
+229,7,"AU010 407 Auto Workshop I ",4
+230,7,"AU010 408(CE) Strength of Materials Lab ",4
+231,7,"EN010 501A Engineering Mathematics IV ",4
+232,7,"AU010 502 Computer Aided Design & Manufacturing",4
+233,7,"AU010 503 Auto Chassis ",5
+234,7,"AU010 504(ME) Kinematics of Machinery ",5
+235,7,"AU010 505(ME) I C Engines & Combustion",5
+236,7,"AU010 506(ME) Thermodynamics ",5
+237,7,"AU010 507 Computer Graphics & Drafting",5
+238,7,"AU010 508(EE) Electrical & Electronics Lab",5
+239,7,"AU010 601 Mechanics of Machines ",6
+240,7,"AU010 602(ME) Heat & Mass Transfer",6
+241,7,"AU010 603 Automotive Transmission",6
+242,7,"AU010 604(ME) Metrology & Machine Tools",6
+243,7,"AU010 605(ME) Mechatronics & Control Systems ",6
+244,7,"AU010 606Lxx Elective I",6
+245,7,"AU010 607 Heat Engines Lab",6
+246,7,"AU010 608 Machine Tool Lab",6
+247,7,"AU010 606L01 Vehicle Transport Management",6
+248,7,"AU010 606L02 Computer Aided vehicle Design",6
+249,7,"AU010 606L03 Computer Simulation of I C Engines",6
+250,7,"AU010 606L04 Tribology",6
+251,7,"AU010 606L05 Alternate Fuels and Energy systems",6
+252,7,"AU010 606L06 Quantitative Techniques",6
+253,7,"AU010 701(ME) Design of Machine Elements",7
+254,7,"AU010 702 Advanced Automotive Technology",7
+255,7,"AU010 703 Auto Electrical & Electronics ",7
+256,7,"AU010 704(ME) Refrigeration & Air Conditioning ",7
+257,7,"AU010 705(ME) Industrial Engineering",7
+258,7,"AU010 706Lxx Elective II ",7
+259,7,"AU010 707(ME) Mechanical Measurements Lab ",7
+260,7,"AU010 708 Auto Workshop II ",7
+261,7,"AU010 709 Seminar",7
+262,7,"AU010 710 Project ",7
+263,7,"AU010 706L01 Vehicle Body Engineering",7
+264,7,"AU010 706L02 Vehicle Performance and Testing",7
+265,7,"AU010 706L03 Automotive Pollution and Control",7
+266,7,"AU010 706L04 Project Management",7
+267,7,"AU010 706L05 Industrial Safety",7
+268,7,"AU010 706L06 Non Traditional Machining Processes",7
+269,7,"AU010 801(ME) Design of Transmission Elements",8
+270,7,"AU010 802(ME) Operations Management ",8
+271,7,"AU010 803 Special Types of Vehicles ",8
+272,7,"AU010 804Lxx Elective III",8
+273,7,"AU010 805Gxx Elective IV ",8
+274,7,"AU010 806 Auto Workshop III",8
+275,7,"AU010 807 Project ",8
+276,7,"AU010 808 Viva Voce ",8
+277,7,"AU010 804L01 Transport Refrigeration and Air Conditioning",8
+278,7,"AU010 804L02 Engineering Economics and Automotive Cost Estimation",8
+279,7,"AU010 804L03 Vehicle Dynamics",8
+280,7,"AU010 804L04 Finite Element Method",8
+281,7,"AU010 804L05 Microprocessor Application in Automobiles",8
+282,7,"AU010 804L06 Foundry and Welding Technology",8
+283,7,"AU010 805G01 System Modeling and Simulation",8
+284,7,"AU010 805G02 Robotics and Robot Application",8
+285,7,"AU010 805G03 Farm Machinery and Equipment",8
+286,7,"AU010 805G04 Aerospace Engineering",8
+287,7,"AU010 805G05 Management Information systems",8
+288,7,"AU010 805G06 Petrochemical Engineering",8
+289,1,"EN010 101 Engineering Mathematics I",1
+290,1,"EN010 102 Engineering Physics ",1
+291,1,"EN010 103 Engineering. Chemistry & Environmental Studies",1
+292,1,"EN010 104 Engineering Mechanics ",1
+293,1,"EN010 105 Engineering Graphics",1
+294,1,"EN010 106 Basic Civil Engineering",1
+295,1,"EN010 107 Basic Mechanical Engineering ",1
+296,1,"EN010 108 Basic Electrical Engineering",1
+297,1,"EN010 109 Basic Electronics Engineering. & Information Technology",1
+298,1,"EN010 110 Mechanical Workshop ",1
+299,1,"EN110 111 Electrical and Civil Workshops ",1
+300,1,"EN010 101 Engineering Mathematics I",2
+301,1,"EN010 102 Engineering Physics ",2
+302,1,"EN010 103 Engineering. Chemistry & Environmental Studies",2
+303,1,"EN010 104 Engineering Mechanics ",2
+304,1,"EN010 105 Engineering Graphics",2
+305,1,"EN010 106 Basic Civil Engineering",2
+306,1,"EN010 107 Basic Mechanical Engineering ",2
+307,1,"EN010 108 Basic Electrical Engineering",2
+308,1,"EN010 109 Basic Electronics Engineering. & Information Technology",2
+309,1,"EN010 110 Mechanical Workshop ",2
+310,1,"EN110 111 Electrical and Civil Workshops ",2
+311,1,"EN010 301 Engineering Mathematics II",3
+312,1,"EN010 302 Economics and Communication Skills",3
+313,1,"CE010 303 Fluid Mechanics",3
+314,1,"CE010 304 Mechanics of Solids I",3
+315,1,"CE010 305 Surveying I",3
+316,1,"CE010 306 Engineering Geology ",3
+317,1,"CE010 307 Material Testing Lab I ",3
+318,1,"CE010 308 Surveying Practical I ",3
+319,1,"EN010 401 Engineering Mathematics III",4
+320,1,"CE010 402 Construction Engineering and Management",4
+321,1,"CE010 403 Mechanics of Solids II ",4
+322,1,"CE010 404 Open Channel Flow and Hydraulic Machines",4
+323,1,"CE010 405 Surveying II",4
+324,1,"CE010 406 Civil Engineering Drawing ",4
+325,1,"CE010 407 Surveying Practical II ",4
+326,1,"CE010 408(ME) Hydraulics Lab",4
+327,1,"EN010 501A Engineering Mathematics IV",5
+328,1,"CE010 502 Computer Programming",5
+329,1,"CE010 503 Design of Concrete Structures I ",5
+330,1,"CE010 504 Geotechnical Engineering I ",5
+331,1,"CE010 505 Quantity Surveying and Valuation ",5
+332,1,"CE010 506 Structural Analysis I",5
+333,1,"CE010 507 Computing Techniques Lab",5
+334,1,"CE010 508 Geotechnical Engineering Lab",5
+335,1,"CE010 601 Design of Steel Structures ",6
+336,1,"CE010 602 Geotechnical Engineering II ",6
+337,1,"CE010 603 Structural Analysis II ",6
+338,1,"CE010 604 Transportation Engineering I",6
+339,1,"CE010 605 Water Resources Engineering",6
+340,1,"CE010 606Lxx Elective I",6
+341,1,"CE010 607 Computer Aided Design and Drafting Lab",6
+342,1,"CE010 608 Material Testing Lab II",6
+343,1,"CE010 606L01 Advanced Surveying",6
+344,1,"CE010 606L02 Open Channel and Coastal Hydraulics",6
+345,1,"CE010 606L03 Airport Engineering",6
+346,1,"CE010 606L04 Advanced Mechnics of Materials",6
+347,1,"CE010 606L05 Concrete Technology",6
+348,1,"CE010 606L06 Soil Stability Analysis.",6
+349,1,"CE010 701 Design of Hydraulic Structures",7
+350,1,"CE010 702 Environmental Engineering I",7
+351,1,"CE010 703 Design of Concrete Structures II",7
+352,1,"CE010 704 Architecture and Town Planning ",7
+353,1,"CE010 705 Transportation Engineering II ",7
+354,1,"CE010 706Lxx Elective II ",7
+355,1,"CE010 707 Computer Applications Lab",7
+356,1,"CE010 708 Transportation Engineering Lab ",7
+357,1,"CE010 709 Seminar",7
+358,1,"CE010 710 Project",7
+359,1,"CE010 706L01 Building Automation and Smart Structures",7
+360,1,"CE 010 706L02 Ground Improvement Technicques",7
+361,1,"CE 010 706L03. Prestressed Concrete.",7
+362,1,"CE 010 706L04 Environmental Impact Assessment",7
+363,1,"CE 010 706L05 Theory of Plates and Shells",7
+364,1,"CE 010 706L06 Traffic Engineering and Management",7
+365,1,"CE010 801 Advanced Structural Design",8
+366,1,"CE010 802 Building Technology and Management",8
+367,1,"CE010 803 Environmental Engineering II",8
+368,1,"CE010 804Lxx Elective III",8
+369,1,"CE010 805Gxx Elective IV",8
+370,1,"CE010 806 Environmental Engineering Lab ",8
+371,1,"CE010 807 Project",8
+372,1,"CE010 808 Viva Voce",8
+373,1,"CE010 804L01 Advanced Foundation Design",8
+374,1,"CE010 804L02 Environmental Geotechniques",8
+375,1,"CE010 804L03 Earthquake Engineering and Design",8
+376,1,"CE010 804L04 Advanced Hydrology and System Analysis",8
+377,1,"CE010 804L05 Highway and Airfield Pavements",8
+378,1,"CE010 804L06 Structural Dynamics and Stability Analysis",8
+379,1,"CE010 805G01 Finite Element Analysis",8
+380,1,"CE010 805G02 Environmental Pollution Control Techniques",8
+381,1,"CE010 805G03 Optimization Techniques",8
+382,1,"CE010 805G04 Land Use Planning",8
+383,1,"CE010 805G05 Numerical Methods",8
+384,1,"CE010 805G06 Remote Sensing and GIS Applications",8
+385,2,"EN010 101 Engineering Mathematics I",1
+386,2,"EN010 102 Engineering Physics",1
+387,2,"EN010 103 Engineering Chemistry & Environmental Studies",1
+388,2,"EN010 104 Engineering Mechanics",1
+389,2,"EN010 105 Engineering Graphics ",1
+390,2,"EN010 106 Basic Civil Engineering",1
+391,2,"EN010 107 Basic Mechanical Engineering ",1
+392,2,"EN010 108 Basic Electrical Engineering",1
+393,2,"EN010 109 Basic Electronics Engg & Information Technology",1
+394,2,"EN010 110 Mechanical Workshop",1
+395,2,"EN110 111 Electrical and Civil Workshops",1
+396,2,"EN010 101 Engineering Mathematics I",2
+397,2,"EN010 102 Engineering Physics",2
+398,2,"EN010 103 Engineering Chemistry & Environmental Studies",2
+399,2,"EN010 104 Engineering Mechanics",2
+400,2,"EN010 105 Engineering Graphics ",2
+401,2,"EN010 106 Basic Civil Engineering",2
+402,2,"EN010 107 Basic Mechanical Engineering ",2
+403,2,"EN010 108 Basic Electrical Engineering",2
+404,2,"EN010 109 Basic Electronics Engg & Information Technology",2
+405,2,"EN010 110 Mechanical Workshop",2
+406,2,"EN110 111 Electrical and Civil Workshops",2
+407,2,"EN010 301 Engineering Mathematics II",3
+408,2,"EN010 302 Economics and Communication Skills",3
+409,2,"CS010 303 Problem Solving and Computer Programming",3
+410,2,"CS010 304 Computer Organization ",3
+411,2,"CS010 305 Switching Theory and Logic Design",3
+412,2,"CS010 306(EC) Electronics Devices and Circuits",3
+413,2,"CS010 307 Programming lab ",3
+414,2,"CS010 308(EC) Logic Design lab",3
+415,2,"CS010 402 Object Oriented Programming ",4
+416,2,"CS010 403 Data Structures and Algorithms ",4
+417,2,"CS010 404(EC) Signals and Communication Systems",4
+418,2,"CS010 405 Microprocessor Systems ",4
+419,2,"CS010 406 Theory of Computation",4
+420,2,"CS010 407 Data Structures lab ",4
+421,2,"CS010 408(EC) Electronic Circuits & Communication lab",4
+422,2,"EN010 501B Engineering Mathematics IV",5
+423,2,"EN010502(ME) Principles of Management",5
+424,2,"CS010 503 Database Management Systems",5
+425,2,"CS010 504(EC) Digital Signal Processing",5
+426,2,"CS010 505 Operating Systems",5
+427,2,"CS010 506 Advanced Microprocessors & Peripherals",5
+428,2,"CS010 507 Database Lab ",5
+429,2,"CS010 508 Hardware & Microprocessors lab",5
+430,2,"CS010 601 Design and Analysis of Algorithms",6
+431,2,"CS010 602 Internet Computing",6
+432,2,"CS010 603 System Software",6
+433,2,"CS010 604 Computer Networks ",6
+434,2,"CS010 605 Software Engineering ",6
+435,2,"CS010 606Lxx Elective I",6
+436,2,"CS010 607 Operating Systems Lab",6
+437,2,"CS010 608 Mini Project",6
+438,2,"CS010 606L01 Distributed Systems",6
+439,2,"CS010 606L02 Micro controller Based Systems",6
+440,2,"CS010 606L03 User Interface Design",6
+441,2,"CS010 606L04 Unix Shell Programming",6
+442,2,"CS010 606L05 Embedded Systems",6
+443,2,"CS010 606L06 Advanced Software Environments",6
+444,2,"CS010 701 Web Technologies",7
+445,2,"CS010 702 Compiler Construction ",7
+446,2,"CS010 703 Computer Graphics",7
+447,2,"CS010 704 Object Oriented Modelling & Design",7
+448,2,"CS010 705 Principles of Programming Languages",7
+449,2,"CS010 706Lxx Elective II",7
+450,2,"CS010 707 Systems Programming Lab",7
+451,2,"CS010 708 Networking lab",7
+452,2,"CS010 709 Seminar",7
+453,2,"CS010 710 Project ",7
+454,2,"CS010 706L01 Real Time Systems",7
+455,2,"CS010 706L02 Data Mining and Data Warehousing",7
+456,2,"CS010 706L03 Operating System Kernel Design",7
+457,2,"CS010 706L04 Digital image processing",7
+458,2,"CS010 706L05 Data Processing and File Structures",7
+459,2,"CS010 706L06 Client Server and Applications",7
+460,2,"CS010 801 High Performance Computing ",8
+461,2,"CS010 802 Artificial Intelligence ",8
+462,2,"CS010 803 Security in Computing",8
+463,2,"CS010 804Lxx Elective III ",8
+464,2,"CS010 805Gxx Elective IV",8
+465,2,"CS010 806 Computer Graphics Lab",8
+466,2,"CS010 807 Project",8
+467,2,"CS010 808 Viva Voce",8
+468,2,"CS010 804L01 E-commerce",8
+469,2,"CS010 804L02 Grid Computing",8
+470,2,"CS010 804L03 Bioinformatics",8
+471,2,"CS010 804L04 Optimization Techniques",8
+472,2,"CS010 804L05 Mobile Computing",8
+473,2,"CS010 804L06 Advanced networking trends",8
+474,2,"CS010 805G01 Multimedia Techniques",8
+475,2,"CS010 805G02 Neural networks",8
+476,2,"CS010 805G03 Advanced Mathematics",8
+477,2,"CS010 805G04 Software Architecture",8
+478,2,"CS010 805G05 Natural Language Processing",8
+479,2,"CS010 805G06 Pattern Recognition",8
+480,6,"EN010 101 Engineering Mathematics I",1
+481,6,"EN010 102 Engineering Physics",1
+482,6,"EN010 103 Engineering Chemistry & Environmental Studies",1
+483,6,"EN010 104 Engineering Mechanics",1
+484,6,"EN010 105 Engineering Graphics ",1
+485,6,"EN010 106 Basic Civil Engineering",1
+486,6,"EN010 107 Basic Mechanical Engineering ",1
+487,6,"EN010 108 Basic Electrical Engineering",1
+488,6,"EN010 109 Basic Electronics Engg & Information Technology",1
+489,6,"EN010 110 Mechanical Workshop",1
+490,6,"EN110 111 Electrical and Civil Workshops",1
+491,6,"EN010 101 Engineering Mathematics I",2
+492,6,"EN010 102 Engineering Physics",2
+493,6,"EN010 103 Engineering Chemistry & Environmental Studies",2
+494,6,"EN010 104 Engineering Mechanics",2
+495,6,"EN010 105 Engineering Graphics ",2
+496,6,"EN010 106 Basic Civil Engineering",2
+497,6,"EN010 107 Basic Mechanical Engineering ",2
+498,6,"EN010 108 Basic Electrical Engineering",2
+499,6,"EN010 109 Basic Electronics Engg & Information Technology",2
+500,6,"EN010 110 Mechanical Workshop",2
+501,6,"EN110 111 Electrical and Civil Workshops",2
+502,6,"EN010 301 Engineering Mathematics II",3
+503,6,"EN010 302 Economics and Communication Skills",3
+504,6,"EE 010 303 Electric Circuit Theory",3
+505,6,"EE010 304 Electrical Measurements and Measuring Instruments",3
+506,6,"EE 010 305 Electronic Circuits",3
+507,6,"EE 010 306(ME) Mechanical Technology",3
+508,6,"EE010 307 Electrical Measurements Lab",3
+509,6,"EE 010 308 Mechanical Lab",3
+510,6,"EN010 401 Engineering Mathematics III",4
+511,6,"EE 010 402 DC Machines and Transformers",4
+512,6,"EE 010 403 Linear System Analysis",4
+513,6,"EE010 404 Electromagnetic Theory",4
+514,6,"EE 010 405 Digital Systems and Computer Organization",4
+515,6,"EE 010 406 Computer Programming",4
+516,6,"EE 010 406 Computer Programming Lab ",4
+517,6,"EE 010 408 Electronic Circuits Lab",4
+518,6,"EE010 601 Power Generation and Distribution",6
+519,6,"EE 010 602 Induction Machines ",6
+520,6,"EE 010 603 Control System Engineering",6
+521,6,"EE010 604 Digital Signal Processing",6
+522,6,"EE 010 605 Microcontrollers and Embedded Systems",6
+523,6,"EE 010 606Lxx Elective I ",6
+524,6,"EE010 607 Power Electronics Lab ",6
+525,6,"EE010 608 Mini project/ Microprocessor and Microcontroller Lab",6
+526,6,"EE 010 606L01 H V Engineering",6
+527,6,"EE 010 606L02 VLSI systems",6
+528,6,"EE 010 606L03 Artificial Neural Networks",6
+529,6,"EE 010 606L04 Object Oriented Programming",6
+530,6,"EE 010 606L05 Bio - medical engineering",6
+531,6,"EE 010 606L06 Renewable energy Sources",6
+532,6,"EN010 701 Electrical Power Transmission",7
+533,6,"EE 010 702 Synchronous Machines ",7
+534,6,"EE010 703 Drives and Control",7
+535,6,"EE010 704 Modern Control Theory",7
+536,6,"EE010 705 Communication Engineering",7
+537,6,"EE 010 706Lxx Elective II",7
+538,6,"EE010 707 Electrical CAD",7
+539,6,"EE 010 708 Electrical Machines Lab II",7
+540,6,"EE010 709 Seminar ",7
+541,6,"EE 010 710 Project ",7
+542,6,"EE010 706L01 H V D C Transmission",7
+543,6,"EE010 706L02 Industrial Instrumentation",7
+544,6,"EE010 706L03 Power Quality",7
+545,6,"EE010 706L04 PLC Based system",7
+546,6,"EE010 706L05 MEMS",7
+547,6,"EE010 706L06 Special Electrical Machines",7
+548,6,"EE010 801 Power System Analysis",8
+549,6,"EE010 802 Switch Gear and Protection ",8
+550,6,"EE 010 803 Electrical System Design ",8
+551,6,"EE010 804Lxx Elective III ",8
+552,6,"EE 010 805Gxx Elective IV ",8
+553,6,"EE 010 806 Project",8
+554,6,"EE010 807 Control and Simulation Lab",8
+555,6,"EE 010 808 Viva Voce ",8
+556,6,"EE010 804L01 Advanced Power System",8
+557,6,"EE010 804L02 Computer Networks",8
+558,6,"EE010 804L03 Generalized Machine Theory",8
+559,6,"EE010 804L04 Finite Element applications in Electrical Engineering.",8
+560,6,"EE010 804L05 Digital Signal Processors",8
+561,6,"EE010 804L06 Opto Electronics",8
+562,6,"EE010 805G01 Soft Computing Techniques",8
+563,6,"EE010 805G02 Intellectual property rights",8
+564,6,"EE010 805G03 Advanced Mathematics",8
+565,6,"EE010 805G04 Virtual Instrumentation",8
+566,6,"EE010 805G05 Digital Image Processing",8
+567,6,"EE010 805G06 Distributed Power Systems",8
+568,3,"EN010 101 Engineering Mathematics I",1
+569,3,"EN010 102 Engineering Physics",1
+570,3,"EN010 103 Engineering Chemistry & Environmental Studies",1
+571,3,"EN010 104 Engineering Mechanics",1
+572,3,"EN010 105 Engineering Graphics ",1
+573,3,"EN010 106 Basic Civil Engineering",1
+574,3,"EN010 107 Basic Mechanical Engineering ",1
+575,3,"EN010 108 Basic Electrical Engineering",1
+576,3,"EN010 109 Basic Electronics Engg & Information Technology",1
+577,3,"EN010 110 Mechanical Workshop",1
+578,3,"EN110 111 Electrical and Civil Workshops",1
+579,3,"EN010 101 Engineering Mathematics I",2
+580,3,"EN010 102 Engineering Physics",2
+581,3,"EN010 103 Engineering Chemistry & Environmental Studies",2
+582,3,"EN010 104 Engineering Mechanics",2
+583,3,"EN010 105 Engineering Graphics ",2
+584,3,"EN010 106 Basic Civil Engineering",2
+585,3,"EN010 107 Basic Mechanical Engineering ",2
+586,3,"EN010 108 Basic Electrical Engineering",2
+587,3,"EN010 109 Basic Electronics Engg & Information Technology",2
+588,3,"EN010 110 Mechanical Workshop",2
+589,3,"EN110 111 Electrical and Civil Workshops",2
+590,3,"EN010 301 Engineering Mathematics II 2 2 - 50 100 3 4",3
+591,3,"EN010 302 Economics and CommunicationSkills",3
+592,3,"ME010 303 Fluid Mechanics ",3
+593,3,"ME 010 304 Metallurgy & Material Science",3
+594,3,"ME 010 305 Programming in C ",3
+595,3,"ME 010 306(CE) Strength of Materials & Structural Engineering",3
+596,3,"ME 010 307 Computer ProgrammingLab ",3
+597,3,"ME 010 308 Fluid Mechanics Lab ",3
+598,3,"EN010 401 Engineering Mathematics III ",4
+599,3,"EN010 402(ME) Principles of Management",4
+600,3,"ME 010 403 Hydraulic Machines",4
+601,3,"ME 010 404 Manufacturing Process",4
+602,3,"ME 010 405 Machine Drawing ",4
+603,3,"ME 010 406(EE) Electrical Technology 3 1",4
+604,3,"ME 010 407 Hydraulic Machines Lab",4
+605,3,"ME 010 408(CE) Strength of Materials Lab",4
+606,3,"EN010 501A Engineering Mathematics IV",5
+607,3,"ME 010 502 Computer Aided Design & Manufacturing",5
+608,3,"ME 010 503 Advanced Mechanics of Materials",5
+609,3,"ME 010 504 Kinematics of Machinery",5
+610,3,"ME 010 505 I.C.Engines & Combustion",5
+611,3,"ME 010 506 Thermodynamics",5
+612,3,"ME 010 507 Computer Graphics & Drafting ",5
+613,3,"ME 010 508 Electrical & Electronics Lab",5
+614,3,"ME 010 601 Mechanics of Machines",6
+615,3,"ME 010 602 Heat & Mass transfer",6
+616,3,"ME 010 603 Thermal Systems & Applications",6
+617,3,"ME 010 604 Metrology & Machine Tools",6
+618,3,"ME 010 605 Mechatronics & Control System ",6
+619,3,"ME 010 606Lxx Elective I",6
+620,3,"ME 010 607 Heat Engines Lab",6
+621,3,"ME 010 608 Machine Tools Lab",6
+622,3,"ME 010 606L01 Computational Fluid Dynamics",6
+623,3,"ME 010 606L02 Composite Materials Technology",6
+624,3,"ME 010 606L03 Automobile engineering",6
+625,3,"ME 010 606L04 Advanced strength of materials",6
+626,3,"ME 010 606L05 Industrial Hydraulics",6
+627,3,"ME 010 606L06 Project management",6
+628,3,"7 th Semester",7
+629,3,"ME 010 701 Design of Machine Elements ",7
+630,3,"ME 010 702 Dynamics of Machines",7
+631,3,"ME 010 703 Gas Dynamics & Jet Propulsion",7
+632,3,"ME 010 704 Refrigeration & Air Conditioning",7
+633,3,"ME 010 705 Industrial Engineering",7
+634,3,"ME 010 706Lxx Elective II",7
+635,3,"ME 010 707 Mechanical Measurements Lab",7
+636,3,"ME 010 708 Advanced Machine Tools Lab ",7
+637,3,"ME 010 709 Seminar",7
+638,3,"ME 010 710 Project ",7
+639,3,"ME010 706L01 Plant Engineering & Maintenance",7
+640,3,"ME010 706L02 Turbomachines",7
+641,3,"ME010 706L03 Theory of vibration",7
+642,3,"ME010 706L04 Sales & Marketing Management",7
+643,3,"ME010 706L05 Failure analysis & design",7
+644,3,"ME010 706L06 Foundary & Welding Technology",7
+645,3,"ME010 801 Design of Transmission Elements",8
+646,3,"ME010 802 Operations Management",8
+647,3,"ME010 803 Production Engineering",8
+648,3,"ME010 804Lxx Elective III",8
+649,3,"ME010 805Gxx Elective IV",8
+650,3,"ME010 806 Mechanical Systems Lab",8
+651,3,"ME010 807 Project ",8
+652,3,"ME010 808 Viva Voce",8
+653,3,"ME010 804L01 Aerospace Engineering",8
+654,3,"ME010 804L02 Advanced Machining Process",8
+655,3,"ME010 804L03 Cryogenics",8
+656,3,"ME010 804L04 Acoustics & noise control",8
+657,3,"ME010 804L05 Non Destructive Testing",8
+658,3,"ME010 804L06 Advanced operations research",8
+659,3,"ME010 805G01 Industrial Safety",8
+660,3,"ME010 805G02 Disaster Management",8
+661,3,"ME010 805G03 Nano Technology",8
+662,3,"ME010 805G04 Finite element analysis",8
+663,3,"ME010 805G05 Optimization methods in design",8
+664,3,"ME010 805G06 Petrochemical Engineering",8
